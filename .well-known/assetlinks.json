@@ -1,0 +1,8 @@
+[{
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target": {
+		"namespace": "android_app",
+		"package_name": "com.example.wcointegration",
+		"sha256_cert_fingerprints": ["52:0B:12:18:B8:C9:29:13:32:71:F5:A2:F0:72:ED:B9:AE:3B:08:07:38:5A:8F:31:18:1F:DC:BF:D4:4B:5D:DB"]
+	}
+}]
