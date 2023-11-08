@@ -1,8 +1,26 @@
-[{
-	"relation": ["delegate_permission/common.handle_all_urls"],
-	"target": {
-		"namespace": "android_app",
-		"package_name": "com.example.wcointegration",
-		"sha256_cert_fingerprints": ["52:0B:12:18:B8:C9:29:13:32:71:F5:A2:F0:72:ED:B9:AE:3B:08:07:38:5A:8F:31:18:1F:DC:BF:D4:4B:5D:DB"]
-	}
-}]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.wcointegration",
+            "sha256_cert_fingerprints": [
+                "52:0B:12:18:B8:C9:29:13:32:71:F5:A2:F0:72:ED:B9:AE:3B:08:07:38:5A:8F:31:18:1F:DC:BF:D4:4B:5D:DB"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.moneybookers.skrillpayments.staging.debug",
+            "sha256_cert_fingerprints": [
+                "5E:68:A7:53:71:82:7C:EA:68:63:AA:cd:FC:41:D8:11:1F:7B:62:8E:28:B0:12:54:C2:3C:75:23:A8:C1:72:11"
+            ]
+        }
+    }
+]
